@@ -1,29 +1,28 @@
 {
-  // this the manifest for you pack
-  // it contains basic information about your pack
-  // for more info on the manifest check: https://github.com/black-sliver/PopTracker/blob/master/doc/PACKS.md#manifest
-  "name": "Template Pack for PopTracker",
-  "game_name": "<put your game title here>",
-  "package_version": "1.0.0.0",
-  "package_uid": "template_pack",
-  // enables SNES memory autotracking interface - remove/change if not needed
-  "platform": "snes",
-  "author": "Cyb3R",
+  "name": "Pokemon Black and White AP Tracker",
+  "game_name": "Pokemon Black and White",
+  "package_version": "0.1.0",
+  "package_uid": "pokemon_bw",
+  "platform": "nds",
+  "author": "SafetyFlux",
   "min_poptracker_version": "0.25.9",
-  // put the version you tested against here!
-  "target_poptracker_version": "0.32.0",
+  "target_poptracker_version": "0.32.1",
   "variants": {
-    "standard": {
-      "display_name": "Map Tracker",
+    "standard_black": {
+      "display_name": "Map Tracker (Black)",
       "flags": [
-        // enables AP autotracking interface - remove if not needed
+        "ap"
+      ]
+    },
+    "standard_white": {
+      "display_name": "Map Tracker (White)",
+      "flags": [
         "ap"
       ]
     },
     "var_itemsonly": {
       "display_name": "Items Only",
       "flags": [
-        // enables AP autotracking interface - remove if not needed
         "ap"
       ]
     }
