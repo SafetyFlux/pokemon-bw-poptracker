@@ -35,6 +35,15 @@
                   "unova_map"
                 ]
               }
+            },
+            {
+              "title": "Encounters",
+              "content": {
+                "type": "map",
+                "maps": [
+                  "encounter_map"
+                ]
+              }
             }
           ]
         }
