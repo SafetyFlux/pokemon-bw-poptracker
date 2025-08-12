@@ -9,13 +9,7 @@
   "target_poptracker_version": "0.32.1",
   "variants": {
     "standard_black": {
-      "display_name": "Map Tracker (Black)",
-      "flags": [
-        "ap"
-      ]
-    },
-    "standard_white": {
-      "display_name": "Map Tracker (White)",
+      "display_name": "Map Tracker",
       "flags": [
         "ap"
       ]
