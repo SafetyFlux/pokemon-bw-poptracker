@@ -1,9 +1,203 @@
 [
-  //more info: https://github.com/black-sliver/PopTracker/blob/master/doc/PACKS.md#maps
+  // Main
   {
     "name": "unova_map",
     "location_size": 48,
     "location_border_thickness": 4,
     "img": "images/maps/unova_map.png"
+  },
+  {
+    "name": "encounter_map",
+    "location_size": 48,
+    "location_border_thickness": 4,
+    "img": "images/maps/unova_map.png"
+  },
+  // Cities (and towns)
+  {
+    "name": "nuvema_town",
+    "location_size": 48,
+    "location_border_thickness": 4,
+    "img": "images/maps/cities/nuvema_town.png"
+  },
+  {
+    "name": "accumula_town",
+    "location_size": 48,
+    "location_border_thickness": 4,
+    "img": "images/maps/cities/accumula_town.png"
+  },
+  {
+    "name": "striaton_city",
+    "location_size": 48,
+    "location_border_thickness": 4,
+    "img": "images/maps/cities/striaton_city.png"
+  },
+  {
+    "name": "nacrene_city",
+    "location_size": 48,
+    "location_border_thickness": 4,
+    "img": "images/maps/cities/nacrene_city.png"
+  },
+  {
+    "name": "castelia_city",
+    "location_size": 48,
+    "location_border_thickness": 4,
+    "img": "images/maps/cities/castelia_city.png"
+  },
+  {
+    "name": "nimbasa_city",
+    "location_size": 48,
+    "location_border_thickness": 4,
+    "img": "images/maps/cities/nimbasa_city.png"
+  },
+  {
+    "name": "anville_town",
+    "location_size": 48,
+    "location_border_thickness": 4,
+    "img": "images/maps/cities/anville_town.png"
+  },
+  {
+    "name": "driftveil_city",
+    "location_size": 48,
+    "location_border_thickness": 4,
+    "img": "images/maps/cities/driftveil_city.png"
+  },
+  {
+    "name": "mistralton_city",
+    "location_size": 48,
+    "location_border_thickness": 4,
+    "img": "images/maps/cities/mistralton_city.png"
+  },
+  {
+    "name": "icirrus_city",
+    "location_size": 48,
+    "location_border_thickness": 4,
+    "img": "images/maps/cities/icirrus_city.png"
+  },
+  {
+    "name": "undella_town",
+    "location_size": 48,
+    "location_border_thickness": 4,
+    "img": "images/maps/cities/undella_town.png"
+  },
+  {
+    "name": "lacunosa_town",
+    "location_size": 48,
+    "location_border_thickness": 4,
+    "img": "images/maps/cities/lacunosa_town.png"
+  },
+  {
+    "name": "opelucid_city",
+    "location_size": 48,
+    "location_border_thickness": 4,
+    "img": "images/maps/cities/opelucid_city.png"
+  },
+  // Routes
+  {
+    "name": "route_1",
+    "location_size": 48,
+    "location_border_thickness": 4,
+    "img": "images/maps/routes/route_1.png"
+  },
+  {
+    "name": "route_2",
+    "location_size": 48,
+    "location_border_thickness": 4,
+    "img": "images/maps/routes/route_2.png"
+  },
+  {
+    "name": "route_3",
+    "location_size": 48,
+    "location_border_thickness": 4,
+    "img": "images/maps/routes/route_3.png"
+  },
+  {
+    "name": "route_4",
+    "location_size": 48,
+    "location_border_thickness": 4,
+    "img": "images/maps/routes/route_4.png"
+  },
+  {
+    "name": "route_5",
+    "location_size": 48,
+    "location_border_thickness": 4,
+    "img": "images/maps/routes/route_5.png"
+  },
+  {
+    "name": "route_6",
+    "location_size": 48,
+    "location_border_thickness": 4,
+    "img": "images/maps/routes/route_6.png"
+  },
+  {
+    "name": "route_7",
+    "location_size": 48,
+    "location_border_thickness": 4,
+    "img": "images/maps/routes/route_7.png"
+  },
+  {
+    "name": "route_8",
+    "location_size": 48,
+    "location_border_thickness": 4,
+    "img": "images/maps/routes/route_8.png"
+  },
+  {
+    "name": "route_9",
+    "location_size": 48,
+    "location_border_thickness": 4,
+    "img": "images/maps/routes/route_9.png"
+  },
+  {
+    "name": "route_10",
+    "location_size": 48,
+    "location_border_thickness": 4,
+    "img": "images/maps/routes/route_10.png"
+  },
+  {
+    "name": "route_11",
+    "location_size": 48,
+    "location_border_thickness": 4,
+    "img": "images/maps/routes/route_11.png"
+  },
+  {
+    "name": "route_12",
+    "location_size": 48,
+    "location_border_thickness": 4,
+    "img": "images/maps/routes/route_12.png"
+  },
+  {
+    "name": "route_13",
+    "location_size": 48,
+    "location_border_thickness": 4,
+    "img": "images/maps/routes/route_13.png"
+  },
+  {
+    "name": "route_14",
+    "location_size": 48,
+    "location_border_thickness": 4,
+    "img": "images/maps/routes/route_14.png"
+  },
+  {
+    "name": "route_15",
+    "location_size": 48,
+    "location_border_thickness": 4,
+    "img": "images/maps/routes/route_15.png"
+  },
+  {
+    "name": "route_16",
+    "location_size": 48,
+    "location_border_thickness": 4,
+    "img": "images/maps/routes/route_16.png"
+  },
+  {
+    "name": "route_17",
+    "location_size": 48,
+    "location_border_thickness": 4,
+    "img": "images/maps/routes/route_17.png"
+  },
+  {
+    "name": "route_18",
+    "location_size": 48,
+    "location_border_thickness": 4,
+    "img": "images/maps/routes/route_18.png"
   }
 ]
